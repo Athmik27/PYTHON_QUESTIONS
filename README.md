@@ -1,6 +1,6 @@
 # Python  — Syntax Cheat Sheet
 
-# 1. Take User Input
+# 1. Take User Input 
 
 ```python
 value = input("Enter value: ")
