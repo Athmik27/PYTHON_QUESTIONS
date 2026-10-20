@@ -1,4 +1,5 @@
-# Python  — Syntax Cheat Sheet
+# Python Basics
+
 
 # 1. Take User Input 
 
