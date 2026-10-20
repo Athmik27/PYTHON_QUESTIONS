@@ -1370,49 +1370,10 @@ for i in range(n):
 
 ---
 
-# Questions
-
-
-
-```text
-1. Even / Odd
-2. Largest of 3 numbers
-3. Sum of digits
-4. Reverse a number
-5. Count digits
-6. Palindrome
-7. Prime number
-8. Factorial
-9. Fibonacci
-10. Armstrong number
-11. Reverse string
-12. Palindrome string
-13. Count vowels
-14. Largest element in list
-15. Smallest element in list
-16. Sum of list
-17. Remove duplicates
-18. Find duplicates
-19. Second largest
-20. Frequency of elements
-21. Anagram
-22. Missing number
-23. FizzBuzz
-24. List comprehension
-25. Dictionary frequency
-26. Recursion
-27. Functions
-28. *args / **kwargs
-29. Exception handling
-30. File handling
-31. OOP basics
-32. Sorting
-33. Matrix problems
-```
 
 ---
 
-# Quick Revision Pattern
+# Revision Pattern
 
 ```text
 NUMBER PROBLEMS
@@ -1476,22 +1437,6 @@ return       → Return result
 ---
 
 
-For example, for a number problem:
 
-```text
-Number
-  ↓
-Extract digit
-  ↓
-Process digit
-  ↓
-Update result
-  ↓
-Remove digit
-  ↓
-Repeat
-  ↓
-Final answer
-```
 
 
