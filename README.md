@@ -1,4 +1,4 @@
-# Python Basics
+# Python Basics Syntax and Examples
 
 
 # 1. Take User Input 
